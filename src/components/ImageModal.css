@@ -1,0 +1,10 @@
+.modal{
+    background-color: rgba(0, 0, 0, 0.53);
+    position: fixed;
+    top: 0;
+    left: 0;
+    img{
+        width: 400px;
+        height: 400px;
+    }
+}
